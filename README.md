@@ -14,11 +14,10 @@ Code Signing Certificates offer a digital signing technology that can assert pub
 In other words, Code Signing Certificates Digitally sign scripts and executables. They confirm the identity of the software author and offers a guarantee that the code is genuine and has not been altered or corrupted since its signing. Ultimately it helps to build the reputation of the organization or the software developer as an individual, as it lets users download and install their software without any error or warning message.
 
 ### Safe to Download
-https://i1.wp.com/codesigningstore.com/wp-content/uploads/2019/04/safe-to-download-img.png?resize=1080%2C63&ssl=1
+![Safe to Download](https://i1.wp.com/codesigningstore.com/wp-content/uploads/2019/04/safe-to-download-img.png?resize=1080%2C63&ssl=1)
 
 ### Unsigned Software Warning
-https://i0.wp.com/codesigningstore.com/wp-content/uploads/2019/04/not-safe.png?resize=1080%2C63&ssl=1
-
+![Unsigned Software Warning](https://i0.wp.com/codesigningstore.com/wp-content/uploads/2019/04/not-safe.png?resize=1080%2C63&ssl=1) 
 You can say Code Signing is like shrink wrap of any CD or DVD purchased from a megastore. Remember those? Software would come wrapped in plastic to let users know it hasn’t been tampered with in any way or form. In the same way, code signing does this for software but in a digital format, which works as a unique fingerprint.
 
 It uses PKI (Public Key Infrastructure) technology to create a digital signature based upon a private key & the contents of the program file, and packages that signature with the file or any associated catalog file.
