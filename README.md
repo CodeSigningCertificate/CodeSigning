@@ -9,7 +9,7 @@ However, have you ever thought about where all the code that makes these devices
 Let’s say as a software distributor; you distribute unsigned code/software. There’s a possibility that someone gets a hold of your software, makes some malicious modifications to it and starts circulating it with an intention to harm users. If your software is popular, this increases that risk substantially.
 
 ## What is a Code Signing Certificate?
-Code Signing Certificates offer a digital signing technology that can assert publisher identity and assure users that the code is legitimate and unaltered. Using mathematic functions Code Signing gives a digital identity to the code, which allows users to know who the author is and provides a guarantee that it’s safe to use.
+[Code Signing Certificates](https://codesigningstore.com) offer a digital signing technology that can assert publisher identity and assure users that the code is legitimate and unaltered. Using mathematic functions Code Signing gives a digital identity to the code, which allows users to know who the author is and provides a guarantee that it’s safe to use.
 
 In other words, Code Signing Certificates Digitally sign scripts and executables. They confirm the identity of the software author and offers a guarantee that the code is genuine and has not been altered or corrupted since its signing. Ultimately it helps to build the reputation of the organization or the software developer as an individual, as it lets users download and install their software without any error or warning message.
 
